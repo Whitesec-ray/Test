@@ -1,2 +1,3 @@
 137.74.96.136 api.yiyanzheng.cn
-::1             ip6-localhost
+127.0.0.1 localhost
+127.0.0.1 www.a.com
